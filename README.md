@@ -13,12 +13,8 @@
 <p align="left"> 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/></a>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/></a>
+   <img src="https://i0.wp.com/ieee.ku.edu.tr/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" width="40" height="40"/></a>
    <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"" width="40" height="40"/></a>
-   <img src="https://cdn.worldvectorlogo.com/logos/php.svg"" width="70" height="50"/></a>
-   <img src="https:/https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"" width="40" height="40"/></a>
-   
-<img src="" width="48" height="48"/></a>
-   
 </p>
 
 ## Connect with me:
