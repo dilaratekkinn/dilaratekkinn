@@ -19,9 +19,10 @@
 ## Languages and Tools:
 
 <p align="left"> 
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48"/></a>
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48"/></a>
-<imgsrc="https://camo.githubusercontent.com/36b1922d2cd7904120e35e9ad6293fcdfb640bf0416b0a0f82b8bbd79ed458d6/68747470733a2f2f7777772e6279636d656469612e636f6d2f626c6f672f696d616765732f75706c6f61642f333733393135323130323032302e706e67g" width="48" height="48"/></a>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/></a>
+    <img src="src="https://camo.githubusercontent.com/36b1922d2cd7904120e35e9ad6293fcdfb640bf0416b0a0f82b8bbd79ed458d6/68747470733a2f2f7777772e6279636d656469612e636f6d2f626c6f672f696d616765732f75706c6f61642f333733393135323130323032302e706e67"" width="40" height="40"/></a>
+<img src="" width="48" height="48"/></a>
    
 </p>
 
