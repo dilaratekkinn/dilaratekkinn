@@ -1,27 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
-
+<h3 align="center">I'm a Junior Softare Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
+- 👨‍💻 Architecht based developer
+- 🔭 I’m currently working on **[Porgin Digital Technologies](https://www.porgin.com/tr/)**
+- 🌱 I’m currently learning **Angularin the bootcamp of Patika.dev .**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 📫 How to reach me **dilaratekkinn@gmail.com**
 
 ## Languages and Tools:
-
 <p align="left"> 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"/></a>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40"/></a>
    <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"" width="40" height="40"/></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"" width="40" height="40"/></a>
+   <img src="https:/https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"" width="40" height="40"/></a>
+   
 <img src="" width="48" height="48"/></a>
    
 </p>
