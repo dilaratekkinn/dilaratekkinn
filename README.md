@@ -1,20 +1,24 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
-<h3 align="center">I'm a Junior Software Developer.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 From architecture to tech.
-- 🔭 I’m currently working on **Porgin Digital Technologies**.
-- 🌱 I’m currently learning **Angularin the bootcamp of Patika.dev**.
-- 📫 How to reach me **dilaratekkinn@gmail.com**
-- ⚡ I speak 3 languages (Turkish [Native], English [C1],Spanish[A2])
+- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+
+- 📫 How to reach me **subham.raoniar@gmail.com**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
+
 <p align="left"> 
-    
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
