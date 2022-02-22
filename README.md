@@ -1,6 +1,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
 <h3 align="center">I'm a Junior Softare Developer.</h3>
 
 ## 🙋‍♂️ About Me
@@ -17,7 +17,7 @@
    <img src="https://i0.wp.com/ieee.ku.edu.tr/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" width="40" height="40"/></a>
    <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"" width="40" height="40"/></a>
 </p>
-
+   
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/dilara-tekin-2b3827228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
