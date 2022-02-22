@@ -20,5 +20,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/dilara-tekin-2b3827228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ddtknn//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/dilaratekkinn"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"width="48" height="48"/></a>
+<a href = "https://www.hackerrank.com/dilaratekkinn"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"width="50" height="50"/></a>
 </p>
