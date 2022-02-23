@@ -1,5 +1,5 @@
 
-<a href="#"><img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"  width = " 600px" height="400px" align="center"/></a>
+<a href="#"><img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"  width = " 800px" height="400px" align="center"/></a>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
 <h3 align="center">I'm a Junior Software Developer.</h3>
 
