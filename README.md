@@ -6,8 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 Architect based developer
-- 🔭 I’m currently working on **Cs-cart**
-- 🌱 I’m currently learning **Angular in the bootcamp of Patika.dev .**
+- 🔭 I’m currently working on **Laravel**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 ## Languages and Tools:
