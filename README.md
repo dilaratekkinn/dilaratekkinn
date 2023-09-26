@@ -1,11 +1,9 @@
 
-<a href="#"><img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"  width = " 500px" height="300" align="right"/></a>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilara</h1>
 
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 Architect based developer
-- 🔭 I’m currently working on **Laravel**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 ## Languages and Tools:
@@ -20,6 +18,4 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/dilara-tekin-2b3827228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/ddtknn//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/dilaratekkinn"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"width="50" height="50"/></a>
 </p>
